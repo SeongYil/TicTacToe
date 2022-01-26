@@ -327,7 +327,7 @@ MonoBehaviour:
   X_WinCount: 0
   Draw_ValueText: {fileID: 1237503143}
   DrawCount: 0
-  release: 1
+  release: 0
 --- !u!4 &154892214
 Transform:
   m_ObjectHideFlags: 0
